@@ -61,18 +61,20 @@ It includes real-world implementation of virtual machines, networking, load bala
 
 ## 📊 Architecture Diagram
 
-![Architecture](./docs/project architecture.png)
+![Architecture](./docs/project-architecture.png)
+
 
 ---
 
 ## 📄 Project Certification
-![Certificate](./docs/Azure Certificate.png)
+
+![Certificate](./docs/azure-certificate.png)
 ----
 
 ## 📄 Project Documentation
 
 📘 Detailed Report:  
-[View Full Report](./AZURE.docx)
+[View Full Report](./docs/azure-deployment-report.pdf)
 
 ## 📌 Future Improvements
 
