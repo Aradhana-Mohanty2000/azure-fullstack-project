@@ -59,11 +59,20 @@ It includes real-world implementation of virtual machines, networking, load bala
 
 ---
 
-## 📸 Screenshots
+## 📊 Architecture Diagram
 
-*(Add Azure portal screenshots, SSL setup, Load Balancer, VMSS)*
+![Architecture](./docs/project architecture.png)
 
 ---
+
+## 📄 Project Certification
+![Certificate](./docs/Azure Certificate.png)
+----
+
+## 📄 Project Documentation
+
+📘 Detailed Report:  
+[View Full Report](./docs/azure-deployment-report.pdf)
 
 ## 📌 Future Improvements
 
