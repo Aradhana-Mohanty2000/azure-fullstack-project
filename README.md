@@ -72,7 +72,7 @@ It includes real-world implementation of virtual machines, networking, load bala
 ## 📄 Project Documentation
 
 📘 Detailed Report:  
-[View Full Report](./docs/azure-deployment-report.pdf)
+[View Full Report](./AZURE.docx)
 
 ## 📌 Future Improvements
 
